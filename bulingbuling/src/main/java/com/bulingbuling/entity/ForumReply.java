@@ -3,7 +3,7 @@ package com.bulingbuling.entity;
 /**
  * Created by bonismo@hotmail.com
  * 下午11:40 on 17/1/4.
- *
+ * <p>
  * 论坛回复
  */
 public class ForumReply {
