@@ -23,5 +23,43 @@ public class Goods {
     // 商品库存
     private String goodsStock;
 
+    public String getGoodsId() {
+        return goodsId;
+    }
 
+    public void setGoodsId(String goodsId) {
+        this.goodsId = goodsId;
+    }
+
+    public String getGoodsName() {
+        return goodsName;
+    }
+
+    public void setGoodsName(String goodsName) {
+        this.goodsName = goodsName;
+    }
+
+    public String getGoodsPrice() {
+        return goodsPrice;
+    }
+
+    public void setGoodsPrice(String goodsPrice) {
+        this.goodsPrice = goodsPrice;
+    }
+
+    public String getGoodsImg() {
+        return goodsImg;
+    }
+
+    public void setGoodsImg(String goodsImg) {
+        this.goodsImg = goodsImg;
+    }
+
+    public String getGoodsStock() {
+        return goodsStock;
+    }
+
+    public void setGoodsStock(String goodsStock) {
+        this.goodsStock = goodsStock;
+    }
 }
