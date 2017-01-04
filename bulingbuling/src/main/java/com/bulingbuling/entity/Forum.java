@@ -4,7 +4,7 @@ package com.bulingbuling.entity;
  * Created by bonismo@hotmail.com
  * 下午11:23 on 17/1/4.
  *
- * 论坛帖子表
+ * 论坛帖子
  */
 public class Forum {
 
