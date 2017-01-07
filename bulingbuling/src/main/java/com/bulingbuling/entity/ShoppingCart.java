@@ -22,4 +22,44 @@ public class ShoppingCart {
 
     // 商品价格
     private String shoppingPrice;
+
+    public String getCartId() {
+        return cartId;
+    }
+
+    public void setCartId(String cartId) {
+        this.cartId = cartId;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public String getShoppingId() {
+        return shoppingId;
+    }
+
+    public void setShoppingId(String shoppingId) {
+        this.shoppingId = shoppingId;
+    }
+
+    public String getShoppingImg() {
+        return shoppingImg;
+    }
+
+    public void setShoppingImg(String shoppingImg) {
+        this.shoppingImg = shoppingImg;
+    }
+
+    public String getShoppingPrice() {
+        return shoppingPrice;
+    }
+
+    public void setShoppingPrice(String shoppingPrice) {
+        this.shoppingPrice = shoppingPrice;
+    }
 }
