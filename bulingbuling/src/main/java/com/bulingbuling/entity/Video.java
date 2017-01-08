@@ -37,4 +37,84 @@ public class Video {
 
     // 分类
     private String videoCategory;
+
+    public String getVideoId() {
+        return videoId;
+    }
+
+    public void setVideoId(String videoId) {
+        this.videoId = videoId;
+    }
+
+    public String getVideoName() {
+        return videoName;
+    }
+
+    public void setVideoName(String videoName) {
+        this.videoName = videoName;
+    }
+
+    public String getVideoImg() {
+        return videoImg;
+    }
+
+    public void setVideoImg(String videoImg) {
+        this.videoImg = videoImg;
+    }
+
+    public String getVideoAddress() {
+        return videoAddress;
+    }
+
+    public void setVideoAddress(String videoAddress) {
+        this.videoAddress = videoAddress;
+    }
+
+    public String getVideoLength() {
+        return videoLength;
+    }
+
+    public void setVideoLength(String videoLength) {
+        this.videoLength = videoLength;
+    }
+
+    public String getVideoMark() {
+        return videoMark;
+    }
+
+    public void setVideoMark(String videoMark) {
+        this.videoMark = videoMark;
+    }
+
+    public String getVideoMessage() {
+        return videoMessage;
+    }
+
+    public void setVideoMessage(String videoMessage) {
+        this.videoMessage = videoMessage;
+    }
+
+    public String getVideoTime() {
+        return videoTime;
+    }
+
+    public void setVideoTime(String videoTime) {
+        this.videoTime = videoTime;
+    }
+
+    public String getVideoStatus() {
+        return videoStatus;
+    }
+
+    public void setVideoStatus(String videoStatus) {
+        this.videoStatus = videoStatus;
+    }
+
+    public String getVideoCategory() {
+        return videoCategory;
+    }
+
+    public void setVideoCategory(String videoCategory) {
+        this.videoCategory = videoCategory;
+    }
 }
